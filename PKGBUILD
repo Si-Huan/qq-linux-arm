@@ -3,7 +3,7 @@
 pkgname=qq-linux
 pkgver=2.0.0_b2_1082
 pkgrel=1
-arch=('x86_64')
+arch=('aarch64')
 pkgdesc="Tencent QQ for Linux"
 url="https://im.qq.com/linuxqq"
 depends=('gtk2' 'glibc' 'gcc-libs' 'nss')
